@@ -16,4 +16,9 @@ div.top{
 img[alt*='Many Watches']{
     width:540px;
 }
-
+article.watch_container{
+    background: #1A1818;
+    margin: 50px;
+    border: solid 2px #FDEFA6;
+    text-align: auto;
+}
