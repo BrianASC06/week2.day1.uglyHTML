@@ -1,0 +1,19 @@
+body{
+    background-color:rgb(53,53,53);
+    color: whitesmoke;
+}
+header{
+    font-family: 'Tangerine', cursive;
+    font-size: 72px;  
+}
+h3{
+    font-family: 'Unica One', cursive;
+    font-size: 26px; 
+}
+div.top{
+    text-align: center;
+}
+img[alt*='Many Watches']{
+    width:540px;
+}
+
